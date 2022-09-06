@@ -1,4 +1,5 @@
 <script>import { page } from '$app/stores';
+
 </script>
 <aside class="sidebar">
     <nav class="nav">
