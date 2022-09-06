@@ -2,7 +2,7 @@
     <div id="about" class="detail">
     <p id="intro">
     
-    Hello! I'm Samah - I'm passionate about equity in the tech industry and education. I have years of experience both teaching and working in the software engineering and consulting industries, and I find purpose in making meaningful impact in my community and in the lives of others.
+    Hello! I'm Samah Majadla - I'm passionate about equity in the tech industry and education. I have years of experience both teaching and working in the software engineering and consulting industries, and I find purpose in making meaningful impact in my community and in the lives of others.
 
     <br>
     <br>
