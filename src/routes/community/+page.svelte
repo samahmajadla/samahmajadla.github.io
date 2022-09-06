@@ -34,7 +34,7 @@ In order to maintain the purposeful environment we are fostering, we ask that an
         padding-left: 20%;
     }
     .community {
-        padding-top:7%;
+        padding-top:5%;
         width: 60vw;
         height: 100%;
     }

@@ -59,5 +59,6 @@
     #about{
         width:60vw;
         height: 100%;
+        padding-top: 3%;
     }
 </style>

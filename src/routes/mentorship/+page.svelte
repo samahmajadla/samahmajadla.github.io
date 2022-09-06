@@ -65,7 +65,7 @@ import Header from "../../../../svelteTest/src/lib/header/Header.svelte";
 <style>
    
     #mentorship{
-        padding-top:3%;
+        padding-top:7%;
         width:60vw;
         height: 100%;
     }
