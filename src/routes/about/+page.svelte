@@ -58,5 +58,6 @@
     }
     #about{
         width:60vw;
+        height: 100%;
     }
 </style>
