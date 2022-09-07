@@ -46,10 +46,10 @@
         }
     
         li:not(.active):hover a {
-            color: rgb(189, 104, 0);
+            color: rgb(240, 132, 0);
         }
         a {
-            color: white;
+            color: rgb(0, 0, 0);
             transition: all ease-out 300ms;
             font-size: 1.5vw;
         }
