@@ -31,8 +31,12 @@
         ul {
             list-style: none;
             margin: 5% 5% 0 0;
+            padding-inline-start: 7%;
         }
     
+        li {
+            margin-bottom: -2%;
+        }
         li.active a{
             color: white;
         }
