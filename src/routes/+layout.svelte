@@ -21,7 +21,7 @@
             position:fixed;
             top:0;
             left:0;
-            width:15%;
+            width:15vw;
             height:100vh;
             background: lightblue;
             text-align: right;
@@ -30,7 +30,7 @@
     
         ul {
             list-style: none;
-            margin: 15px 15px 0 0;
+            margin: 5% 5% 0 0;
         }
     
         li.active a{
