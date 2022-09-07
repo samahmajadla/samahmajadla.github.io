@@ -43,7 +43,7 @@
     }
     .detail {
         font-family: "Advent";
-        font-size: 1vw;
+        font-size: 1.5vw;
 
     }
     #timeline{
@@ -54,7 +54,7 @@
         text-align: left;
     }
     #intro{
-        font-size:2vw;
+        font-size:2.3vw;
     }
     #about{
         width:60vw;
