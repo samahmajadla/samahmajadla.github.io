@@ -1,9 +1,6 @@
-<script>
-import Header from "../../../../svelteTest/src/lib/header/Header.svelte";
 
-</script>
-<div class="container">
-    <div id="mentorship" class="details">
+
+    <div id="mentorship" class="details container">
     <h3>Overview</h3>
    Every two months I will be offering a mentorship opportunity for two individuals who identify as a minority in the tech industry (women, BIPOC, Latinx, LGBTQ+ individuals, formerly incarcerated, etc). As a participant in this program, you will get one on one time with me that can be used in whatever ways best suit your needs.  
 <h3>Status</h3>
@@ -60,13 +57,13 @@ import Header from "../../../../svelteTest/src/lib/header/Header.svelte";
     <br>
     <br>
 </div>
-</div>
+
 
 <style>
    
     #mentorship{
-        padding-top:7%;
-        width:60vw;
+        padding-top:35px;
+        width:95%;
         height: 100%;
     }
     ul{

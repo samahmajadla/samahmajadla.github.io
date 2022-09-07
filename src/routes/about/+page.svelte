@@ -1,5 +1,5 @@
-<div class="container">
-    <div id="about" class="detail">
+
+    <div id="about" class="container detail">
     <p id="intro">
     
     Hello! I'm Samah Majadla - I'm passionate about equity in the tech industry and education. I have years of experience both teaching and working in the software engineering and consulting industries, and I find purpose in making meaningful impact in my community and in the lives of others.
@@ -35,7 +35,7 @@
     <li>Check out my creative endeavors through my <a href="ttps://www.instagram.com/made.by.samah/">Instagram page.</a></li>
     </ul>
 </div>
-</div>
+
 
 <style>
     a:visited{
@@ -43,7 +43,7 @@
     }
     .detail {
         font-family: "Advent";
-        font-size: 1.5vw;
+        font-size: medium;
 
     }
     #timeline{
@@ -54,11 +54,11 @@
         text-align: left;
     }
     #intro{
-        font-size:2.3vw;
+        font-size:large;
     }
     #about{
-        width:60vw;
+        width:95%;
         height: 100%;
-        padding-top: 3%;
+        padding-top: 55px;
     }
 </style>

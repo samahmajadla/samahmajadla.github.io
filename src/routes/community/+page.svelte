@@ -1,5 +1,5 @@
-<div class="container">
-    <div class="details community">
+
+    <div class="details community container">
 
 Habibi Code is a community of passionate and empathetic technologists intended to empower, support, and encourage minorities in tech to further their academic or career goals. Join our community and get to know and learn from each other; ask questions; share advice, job postings, articles and more. 
 
@@ -26,7 +26,7 @@ In order to maintain the purposeful environment we are fostering, we ask that an
 <br>
 <a style="font-size:1.4em" href="https://forms.gle/W3PdQP9VLLYHBT6v9">Fill out the form to join here!</a>
 </div>
-</div>
+
 
 <style>
     ul {
@@ -34,8 +34,8 @@ In order to maintain the purposeful environment we are fostering, we ask that an
         padding-left: 20%;
     }
     .community {
-        padding-top:5%;
-        width: 60vw;
+        padding-top:75px;
+        width: 95%;
         height: 100%;
     }
 </style>

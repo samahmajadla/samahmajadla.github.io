@@ -19,26 +19,26 @@
         .sidebar{
             font-family: 'Advent';
             position:fixed;
-            top:0;
-            left:0;
-            width:15vw;
-            height:100vh;
-            background: lightblue;
-            text-align: right;
-            display:block;
+            width: 100%;
+            text-align: center;
+            min-height: 30px;
+            
         }   
     
         ul {
             list-style: none;
-            margin: 5% 5% 0 0;
-            padding-inline-start: 7%;
+            padding-inline-start: 0;
+
         }
     
         li {
-            margin-bottom: -2%;
+           display: inline;
+           padding-left: 5pt;
+           padding-right: 5pt;
         }
         li.active a{
-            color: white;
+            color: rgb(0, 0, 0);
+            font-weight:bold;
         }
     
         li:not(.active){
@@ -46,12 +46,12 @@
         }
     
         li:not(.active):hover a {
-            color: rgb(240, 132, 0);
+            color: rgba(0, 194, 0, 0.66);
         }
         a {
             color: rgb(0, 0, 0);
             transition: all ease-out 300ms;
-            font-size: 1.5vw;
+            font-size: medium;
         }
     
     
