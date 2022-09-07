@@ -1,12 +1,13 @@
 
 
 
-<div class="container">
+<div class="container" id="pic">
     <img src="samah.png" alt="Samah looking at camera">
   
 </div>
 
 <style>
+    
 
   
     img {

@@ -21,7 +21,7 @@
             position:fixed;
             top:0;
             left:0;
-            width:15vw;
+            width:15%;
             height:100vh;
             background: lightblue;
             text-align: right;
