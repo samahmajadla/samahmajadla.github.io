@@ -22,6 +22,11 @@
             width: 100%;
             text-align: center;
             min-height: 30px;
+            left: 0;
+            top: 0;
+            z-index: 1;
+            background-color: white;
+            
             
         }   
     

@@ -1,12 +1,15 @@
 
     <div id="about" class="container detail">
+        <img src="headshot.png" alt="Samah smiling at the camera">
+        <br>
     <p id="intro">
     
     Hello! I'm Samah Majadla - I'm passionate about equity in the tech industry and education. I have years of experience both teaching and working in the software engineering and consulting industries, and I find purpose in making meaningful impact in my community and in the lives of others.
 
     <br>
-    <br>
+
 </p>
+
 <p>
     Here's a short timeline of my professional and academic history:
 </p>
