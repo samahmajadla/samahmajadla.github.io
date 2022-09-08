@@ -66,8 +66,8 @@
 
 	<h3>Interested?</h3>
 
-	<a href="https://forms.gle/wpGW5qiCxjgm5DhE6">Fill out this short application form</a>, and I will
-	be in touch within 3-5 business days.
+	<p><a href="https://forms.gle/wpGW5qiCxjgm5DhE6">Fill out this short application form</a>, and I will
+	be in touch within 3-5 business days.</p>
 	<br />
 	<br />
 	If I feel that we will be a good fit for each other, I will schedule a short Zoom "get-to-know-you"

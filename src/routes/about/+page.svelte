@@ -45,12 +45,12 @@
         color: blue;
     }
     .detail {
-        font-family: "Advent";
         font-size: medium;
 
     }
     #timeline{
         list-style: none;
+        font-weight: light;
     }
     
     ul {
@@ -58,6 +58,9 @@
     }
     #intro{
         font-size:large;
+        font-family: 'Gravity';
+        font-weight: light;
+        font-style: italic;
     }
     #about{
         width:95%;

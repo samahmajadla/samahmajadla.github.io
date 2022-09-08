@@ -6,7 +6,7 @@
     text-align: center;
     width: 100vw;
     height:100vh;
-    font-family: "Libel";
+    font-family: "Gravity";
     font-size: larger;
     letter-spacing: .05em;
     margin: auto;
@@ -17,7 +17,7 @@ h3{
 }
 
 .details{
-font-family: "Advent";
+font-family: "Gravity";
 } 
 @font-face {
     font-family: 'Advent';
@@ -39,6 +39,51 @@ font-family: "Advent";
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face{
+    font-family: 'Gravity';
+    src: url("gravity/Gravity-Regular.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Gravity';
+    src: url("gravity/Gravity-Light.otf");
+    font-weight: lighter;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Gravity';
+    src: url("gravity/Gravity-Bold.otf");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Gravity';
+    src: url("gravity/Gravity-Italic.otf");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face{
+    font-family: 'Gravity';
+    src: url("gravity/Gravity-LightItalic.otf");
+    font-weight: lighter;
+    font-style: italic;
+}
+
+@font-face{
+    font-family: 'Gravity';
+    src: url("gravity/Gravity-BoldItalic.otf");
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
 a{
     text-decoration: none;
 
