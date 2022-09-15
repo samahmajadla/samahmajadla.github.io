@@ -1,6 +1,6 @@
 <div id="mentorship" class="details container">
 	<h3>Overview</h3>
-	Every two months I will be offering a mentorship opportunity for two individuals who identify as a
+	I am offering a three-month long mentorship opportunity for two individuals who identify as a
 	minority in the tech industry (women, BIPOC, Latinx, LGBTQ+ individuals, formerly incarcerated, etc).
 	As a participant in this program, you will get one on one time with me that can be used in whatever
 	ways best suit your needs.
