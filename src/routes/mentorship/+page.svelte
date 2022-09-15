@@ -6,8 +6,8 @@
 	ways best suit your needs.
 	<h3>Status</h3>
 	<p style="color:darkgreen">
-		<b><i>Open to applications until September 20, 2022.</i></b> Mentorship cycle will run from
-		October 1, 2022 to December 31, 2022.
+		<b><i>Open to applications until September 30, 2022.</i></b> Mentorship cycle will run from
+		November 1, 2022 to January 31, 2022.
 		<a href="https://forms.gle/wpGW5qiCxjgm5DhE6">Apply here.</a>
 	</p>
 
@@ -71,7 +71,7 @@
 	<br />
 	<br />
 	If I feel that we will be a good fit for each other, I will schedule a short Zoom "get-to-know-you"
-	session with you. Selected mentees will be notified by September 30, 2022.
+	session with you. Selected mentees will be notified by October 15, 2022.
 	<br />
 	<br />
 </div>
