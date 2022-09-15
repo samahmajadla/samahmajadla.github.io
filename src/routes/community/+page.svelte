@@ -11,6 +11,7 @@ Habibi Code puts on events every month on a variety of topics (starting November
     <li>Database design exercises (1 hr)</li>
     <li>From idea to database model (1 hr)</li>
     <li>Build a simple full-stack application (2 hrs)</li>
+    <li>Front-end web development (series)</li>
     <li>Intro to basic Python using Turtle graphics (1.5 hrs)</li>
     <li>Build a simple Android app (2 hrs)</li>
     <li>Tech Panels (Q&A, Myths/Lessons learned in tech, Salary Negotiation, Interview Prep, etc)</li>
