@@ -48,7 +48,7 @@
 		<li>group meeting every month (45 minutes)</li>
 	</ul>
 
-	<p>You are also invited to join all of our<a href="../community">Habibi Code</a> events. Other
+	<p>You are also invited to join all of our <a href="../community">Habibi Code</a> events. Other
 	information:</p>
 	<ul>
 		<li>I will provide a Zoom link for all meetings</li>
