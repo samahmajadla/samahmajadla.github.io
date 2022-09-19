@@ -1,7 +1,7 @@
 
     <div class="details community container">
 
-Habibi Code is a community of passionate and empathetic technologists intended to empower, support, and encourage minorities in tech to further their academic or career goals. Join our community and get to know and learn from each other; ask questions; share advice, job postings, articles and more. 
+Habibi Code is a community of passionate and empathetic technologists intended to empower, support, and encourage fellow minorities in tech to further their academic or career goals. Join our community and get to know and learn from each other; ask questions; share advice, job postings, articles and more. 
 
 <h3>Events</h3>
 Habibi Code puts on events every month on a variety of topics (starting November 2022). Some examples of events include:

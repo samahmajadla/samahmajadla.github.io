@@ -1,4 +1,4 @@
-import{S as fe,i as ye,s as ve,k as a,q as r,a as h,l as s,m as d,r as l,h as c,c as m,n as ee,p as ge,b as be,D as e,A as te}from"../../../chunks/index-adfa4130.js";function _e(pe){let t,x,p,B,P,i,f,j,H,y,C,T,v,D,A,g,F,S,b,Q,q,_,J,N,w,z,W,I,G,M,E,O,R,L,V,U,Y,K,X,Z,u,$;return{c(){t=a("div"),x=r(`Habibi Code is a community of passionate and empathetic technologists intended to empower, support, and encourage minorities in tech to further their academic or career goals. Join our community and get to know and learn from each other; ask questions; share advice, job postings, articles and more. 
+import{S as fe,i as ye,s as ve,k as a,q as r,a as h,l as s,m as d,r as l,h as c,c as m,n as ee,p as ge,b as be,D as e,A as te}from"../../../chunks/index-adfa4130.js";function _e(pe){let t,x,p,B,P,i,f,j,H,y,C,T,v,D,A,g,F,S,b,Q,q,_,J,N,w,z,W,I,G,M,E,O,R,L,V,U,Y,K,X,Z,u,$;return{c(){t=a("div"),x=r(`Habibi Code is a community of passionate and empathetic technologists intended to empower, support, and encourage fellow minorities in tech to further their academic or career goals. Join our community and get to know and learn from each other; ask questions; share advice, job postings, articles and more. 
 
 `),p=a("h3"),B=r("Events"),P=r(`
 Habibi Code puts on events every month on a variety of topics (starting November 2022). Some examples of events include:
@@ -9,7 +9,7 @@ If you identify as a minority in tech, you are welcome to join Habibi Code. This
 
 `),L=a("h3"),V=r("Join"),U=r(`
 In order to maintain the purposeful environment we are fostering, we ask that anyone interested in joining this community fill out a form confirming your identity as a minority in tech. If you meet the eligibility criteria, you will receive an invitation to join our Discord group within 2 business days. We are also collecting optional demographic information to better understand our community makeup.
-`),Y=a("br"),K=h(),X=a("br"),Z=h(),u=a("a"),$=r("Fill out the form to join here!"),this.h()},l(k){t=s(k,"DIV",{class:!0});var o=d(t);x=l(o,`Habibi Code is a community of passionate and empathetic technologists intended to empower, support, and encourage minorities in tech to further their academic or career goals. Join our community and get to know and learn from each other; ask questions; share advice, job postings, articles and more. 
+`),Y=a("br"),K=h(),X=a("br"),Z=h(),u=a("a"),$=r("Fill out the form to join here!"),this.h()},l(k){t=s(k,"DIV",{class:!0});var o=d(t);x=l(o,`Habibi Code is a community of passionate and empathetic technologists intended to empower, support, and encourage fellow minorities in tech to further their academic or career goals. Join our community and get to know and learn from each other; ask questions; share advice, job postings, articles and more. 
 
 `),p=s(o,"H3",{});var ie=d(p);B=l(ie,"Events"),ie.forEach(c),P=l(o,`
 Habibi Code puts on events every month on a variety of topics (starting November 2022). Some examples of events include:
