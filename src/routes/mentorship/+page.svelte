@@ -1,7 +1,7 @@
 <div id="mentorship" class="details container">
 	<h3>Overview</h3>
 	<p><a href="/community">Habibi Code</a> hosts a mentorship program with three-month long mentorship cycles for individuals who identify as a
-	minority in the tech industry (women, BIPOC, Latinx, LGBTQ+ individuals, formerly incarcerated, etc).
+	minority in the tech industry (women, BIPOC, Latinx, LGBTQ+ individuals, formerly incarcerated, low socio-economic backgorund, etc).
 	As a participant in this program, you will get one on one time with mentors that can be used in whatever
 	ways best suit your needs. Please read through the following information; you can find the application form at the end of the page. </p>
 	<h3>Status</h3>
