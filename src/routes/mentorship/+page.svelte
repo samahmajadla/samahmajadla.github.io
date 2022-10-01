@@ -6,14 +6,7 @@
 	ways best suit your needs. Please read through the following information; you can find the application form at the end of the page. </p>
 	<h3>Status</h3>
 	<p style="color:darkgreen">
-		<b><i>Open to applications until September 30, 2022.</i></b> The next mentorship cycle will run from
-		November 1, 2022 to January 31, 2022. 
-        <br>
-        <br>
-		<a href="https://forms.gle/wpGW5qiCxjgm5DhE6">Apply here.</a>
-        <br>
-        <br>
-        Please note that due to our limited pool of mentors and the large demand for mentorship, not everyone who applies is guaranteed to receive a mentor. You are welcome to reapply in the future, or join a waiting list to be notified of and considered for any openings or additional mentors. 
+		<b><i>Closed to applications for the November 1, 2022 - January 31, 2022 cycle. Applications for the next cycle will be opened in December. 
 	</p>
 
 	<h3>Program</h3>
