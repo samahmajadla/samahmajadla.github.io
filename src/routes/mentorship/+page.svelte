@@ -205,12 +205,12 @@
 		display: flex;
 		align-items: center;
 		flex-direction: row;
-		width: 80%;
+		width: 100%;
 		background-color: rgba(208, 233, 241, 0.183);
 		margin: 5px;
 	}
 	.mentor img {
+		width:35%;
 		margin: 5px;
-		size: 5%;
-	}
+}
 </style>
