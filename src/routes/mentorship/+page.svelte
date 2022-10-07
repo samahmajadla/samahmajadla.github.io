@@ -26,7 +26,7 @@
 
 		<p>
 			<b>Cole Wyman</b> - I studied Materials Science & Engineering and Computer Science at
-			University or Michigan for a few years before deciding to leave college and begin working. I
+			University of Michigan for a few years before deciding to leave college and begin working. I
 			bopped around between freelance jobs doing frontend and mobile web development to varying
 			degrees of success before finally landing my first software engineering role at a consultancy.
 			In the years since, I’ve been able to grow a lot in my role and hone my skills in distributed

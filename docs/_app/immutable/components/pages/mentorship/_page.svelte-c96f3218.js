@@ -4,7 +4,7 @@ import{S as Ba,i as Ma,s as Aa,k as t,q as o,a as c,l as n,m as i,r as l,h as a,
 		program, you will get one on one time with mentors that can be used in whatever ways best suit your
 		needs. You can read more about the program, as well as our mentors, below!`),Je=c(),Y=t("p"),Z=t("b"),X=t("i"),Re=o(`Closed to applications for the November 1, 2022 - January 31, 2022 cycle. Applications for
 				the next cycle will be opened in December.`),Qe=c(),$=t("h3"),Te=o("Meet our Mentors"),Ue=c(),I=t("div"),A=t("img"),We=c(),g=t("p"),ee=t("b"),Ne=o("Cole Wyman"),Ke=o(` - I studied Materials Science & Engineering and Computer Science at
-			University or Michigan for a few years before deciding to leave college and begin working. I
+			University of Michigan for a few years before deciding to leave college and begin working. I
 			bopped around between freelance jobs doing frontend and mobile web development to varying
 			degrees of success before finally landing my first software engineering role at a consultancy.
 			In the years since, I\u2019ve been able to grow a lot in my role and hone my skills in distributed
@@ -69,7 +69,7 @@ import{S as Ba,i as Ma,s as Aa,k as t,q as o,a as c,l as n,m as i,r as l,h as a,
 		program, you will get one on one time with mentors that can be used in whatever ways best suit your
 		needs. You can read more about the program, as well as our mentors, below!`),Pn.forEach(a),Je=d(s),Y=n(s,"P",{style:!0});var Tn=i(Y);Z=n(Tn,"B",{});var Un=i(Z);X=n(Un,"I",{});var Wn=i(X);Re=l(Wn,`Closed to applications for the November 1, 2022 - January 31, 2022 cycle. Applications for
 				the next cycle will be opened in December.`),Wn.forEach(a),Un.forEach(a),Tn.forEach(a),Qe=d(s),$=n(s,"H3",{});var Nn=i($);Te=l(Nn,"Meet our Mentors"),Nn.forEach(a),Ue=d(s),I=n(s,"DIV",{class:!0});var Ae=i(I);A=n(Ae,"IMG",{src:!0,alt:!0,class:!0}),We=d(Ae),g=n(Ae,"P",{});var p=i(g);ee=n(p,"B",{});var Kn=i(ee);Ne=l(Kn,"Cole Wyman"),Kn.forEach(a),Ke=l(p,` - I studied Materials Science & Engineering and Computer Science at
-			University or Michigan for a few years before deciding to leave college and begin working. I
+			University of Michigan for a few years before deciding to leave college and begin working. I
 			bopped around between freelance jobs doing frontend and mobile web development to varying
 			degrees of success before finally landing my first software engineering role at a consultancy.
 			In the years since, I\u2019ve been able to grow a lot in my role and hone my skills in distributed
