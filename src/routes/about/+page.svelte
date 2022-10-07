@@ -1,6 +1,6 @@
 
     <div id="about" class="container detail">
-        <img src="headshot.png" alt="Samah smiling at the camera">
+        <img src="samah_headshot.png" alt="Samah smiling at the camera">
         <br>
     <p id="intro">
     
