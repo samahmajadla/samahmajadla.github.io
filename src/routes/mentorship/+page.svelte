@@ -6,7 +6,7 @@
 	<p>
 		<a href="/community">Habibi Code</a> hosts a mentorship program with three-month long mentorship
 		cycles for individuals who identify as a minority in the tech industry (women, BIPOC, Latinx, LGBTQ+
-		individuals, formerly incarcerated, low socio-economic backgorund, etc). As a participant in this
+		individuals, formerly incarcerated, low socio-economic background, non-traditional educational background, etc). As a participant in this
 		program, you will get one on one time with mentors that can be used in whatever ways best suit your
 		needs. You can read more about the program, as well as our mentors, below!
 	</p>
