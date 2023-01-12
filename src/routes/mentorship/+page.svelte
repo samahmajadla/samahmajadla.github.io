@@ -14,7 +14,7 @@
 	<p style="color:darkgreen">
 		<b>
 			<i>
-				Applications for the 2023: March - May cycle are now open! <a href="https://forms.gle/t4Dy71f4zmUyFAoEA">Apply here.</a> 
+				Applications for the Spring 2023: March - May cycle are closed. Applications for the Summer cycle will open in May. 
 			</i>
 		</b>
 	</p>
@@ -82,12 +82,11 @@
 <h3>Interested?</h3>
 
 	<p>
-		<a href="https://forms.gle/t4Dy71f4zmUyFAoEA"><b>Fill out this short application form</b></a>, and we
-		will be in touch within 3-5 business days.
+		<a href="https://forms.gle/t4Dy71f4zmUyFAoEA"><b>Fill out this short application form</b></a>.
 	</p>
 	<br />
 	If we feel that you are a good fit for this program, we will schedule a short Zoom "get-to-know-you"
-	session with you. Selected mentees will be notified by February 11, 2023. We encourage you to provide
+	session with you. Mentees who are selected to participate in the program will be notified by February 11, 2023. We encourage you to provide
 	as much detail in your application as you can, as this helps us understand you, your needs and hopes
 	for this program, and best assess your fit with us.
 	<br />
