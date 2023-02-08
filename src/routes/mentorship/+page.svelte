@@ -65,7 +65,7 @@
 	</p>
 	<ul>
 		<li>1:1 meeting every 2 weeks (half hour)</li>
-		<li>Panel and Q&A style group meeting every month (45 minutes)</li>
+		<li>You are encouraged to join the two Panel and Q&A style group meetings (45 minutes, dates TBD)</li>
 	</ul>
 
 	<p>
