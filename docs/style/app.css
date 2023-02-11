@@ -1,3 +1,10 @@
+body {
+    margin: 0px;
+    width: 100vw;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
 .container {
     display: flex;
     align-items: center;
@@ -11,7 +18,15 @@
     letter-spacing: .05em;
     margin: auto;
 }
+[aria-expanded=true] h3::before{
+    content: "\25BF   ";
+    font-size:2rem;
+}
+[aria-expanded=false] h3::before{
+    content: "\25B9  ";
+    font-size:2rem;
 
+}
 h3{
     font-family: "Libel";
 }
