@@ -33,9 +33,7 @@
 		},
 		{
 			title: "Interested? Application and Next Steps",
-			content: `	<p>					<a href="https://forms.gle/t4Dy71f4zmUyFAoEA"><b>Fill out this short application form</b></a>.				</p>				<br />				If we feel that you are a good fit for this program, we will schedule a short Zoom "get-to-know-you"				session with you. Mentees who are selected to participate in the program will be notified by February 11, 2023. We encourage you to provide
-				as much detail in your application as you can, as this helps us understand you, your needs and hopes
-				for this program, and best assess your fit with us.`
+			content: `Unfortunately, applications are closed at this time. Please check back with us in May 2023.`
 		},
 		{
 			title: "Past Mentors"
