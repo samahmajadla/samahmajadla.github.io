@@ -72,5 +72,6 @@ display: inline-flex;
 justify-content: center;
 flex-direction: column;
 height: 250px;
+padding:.5em;
     }
 </style>

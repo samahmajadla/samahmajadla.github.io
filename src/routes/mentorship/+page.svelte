@@ -221,7 +221,7 @@
 		align-items: center;
 		justify-content: center;
 		flex-flow: row wrap;
-		gap: 0.25em;
+		gap: 0.5em;
 		max-width: 90vw;
 		background-color: rgba(208, 233, 241, 0.183);
 		margin: 5px;
