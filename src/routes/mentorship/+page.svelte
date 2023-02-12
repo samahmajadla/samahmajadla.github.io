@@ -86,8 +86,8 @@
 			with implementation and maturation of their cloud infrastructure. I am currently working on a
 			full-stack application for Prison Books Collective, a non-profit that sends free books to
 			individuals incarcerated in North Carolina and Alabama; the app is being developed using Java,
-			Spring Boot, Hibernate/JPA, MySQL, SvelteKit, HTML, Javascript, and CSS. You can learn more
-			<a href="/about">about my background here.</a>
+			Spring Boot, Hibernate/JPA, MySQL, SvelteKit, HTML, Javascript, and CSS. <br><br>You can learn more
+			<a href="/about">about my background here.</a><br>
 			In my free time, I like to make things (robotics, beaded jewelry, nails), being active (paddleboarding,
 			going to the ocean, hiking, exploring cities, dancing, kickboxing), and spending time with those
 			I love.`
@@ -120,12 +120,12 @@
 	current: false,
 	img: "supraja.JPG",
 	alt: "Supraja smiling at the camera",
-	bio: `<p><b>Supraja Kalva</b> (she/her/hers) graduated from Eastern Michigan University as a Presidential
+	bio: `Supraja (she/her/hers) graduated from Eastern Michigan University as a Presidential
 	Scholar with a Bachelor of Science in Computer Science (Applied) and Neuroscience Interdisciplinary,
 	along with University Honors, Departmental Honors in both majors, and Highest Honors. She is currently
 	working at General Motors as a Speech Certification Test Engineer. She is very interested in the
 	neurotechnology and neuroengineering space, hoping to get a PhD in the related fields in the future.
-	She loves hiking, learning about new cultures and languages, and a fellow art enthusiast.</p>`
+	She loves hiking, learning about new cultures and languages, and a fellow art enthusiast.`
 },
 {
 	name: `Vera Reynolds <br/> Winter 2022`,
@@ -185,7 +185,7 @@
 					{ item.title }
 				</h3>
 				<div class="mentor" slot="body">
-					<p style="flex-basis: 100%;">Biographies coming soon.</p>
+					<p style="flex-basis: 100%;">Click on a mentor image to see their bio.</p>
 					{#each currentMentors.filter(m => item.title == 'Current Mentors' ? m.current : !m.current) as current_mentor}
 						<MentorBioCard 
 							name={current_mentor.name}

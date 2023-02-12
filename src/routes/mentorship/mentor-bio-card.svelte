@@ -2,13 +2,21 @@
     export let name
     export let img
     export let bio
+    export let alt
+    export let bioHidden = true
+
+    const toggleVisibilityOfBio = () => {
+        bioHidden = !bioHidden
+    }
 </script>
 
-<article>
-    <div class="overlay"></div>
-    <span class="card-name">{@html name }</span>
-    <!-- <span>{ bio }</span> -->
-    <img src={ img } alt={ `Image of ${ name }` }/>
+<article on:click={toggleVisibilityOfBio}>
+    <div class="overlay" hidden={!bioHidden}></div>
+    <span class="card-name" hidden={!bioHidden}>{@html name }</span>
+    <div class="bioHolder" hidden={bioHidden}>
+        <span class="bio" hidden={bioHidden}><strong>{@html name}</strong> {@html bio}</span>
+    </div>
+    <img src={ img } alt={ alt } hidden={!bioHidden}/>
 </article>
 
 <style>
@@ -41,12 +49,28 @@
         width: 100%;
     }
 
-    img {
-        width: 200px;
-        height: 200px; 
+    img{
+        width: 250px;
+        height: 250px; 
         max-width: min(300px, 90vw);
         max-height: min(300px, 90vw);
         object-fit: cover;
         object-position: center;
+    }
+
+    .bioHolder {
+        width: 250px;
+        height: 250px; 
+        overflow-y: scroll;
+        text-align: center;
+    }
+
+    .bio {
+        font-size: .8em;
+        line-height: normal;
+display: inline-flex;
+justify-content: center;
+flex-direction: column;
+height: 250px;
     }
 </style>
