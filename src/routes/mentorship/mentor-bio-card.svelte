@@ -68,10 +68,10 @@
     .bio {
         font-size: .8em;
         line-height: normal;
-display: inline-flex;
-justify-content: center;
-flex-direction: column;
-height: 250px;
-padding:.5em;
+        display: inline-flex;
+        justify-content: center;
+        flex-direction: column;
+        height: 250px;
+        padding:.5em;
     }
 </style>
