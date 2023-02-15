@@ -163,8 +163,8 @@
 {
 	name: "Grace Wingo",
 	current: true,
-	img: "https://unsplash.it/200/200",
-	alt: "placeholder",
+	img: "grace.jpeg",
+	alt: "Grace smiling brightly into the camera",
 	bio: "grace wingo currently works as a software engineer at Vox Media where they work primarily on ad tech. they have a masters in educational psychology and a b.a in theatre. in their free time they enjoy playing guitar, running, reading, hiking, and exploring new places and meeting new people. they're passionate about inclusion, slow living, and rest."
 },
 {
