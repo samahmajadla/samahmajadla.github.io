@@ -177,8 +177,9 @@
 	},
 ]
 </script>
-
 <div id="mentorship" class="details container">
+	<img style="padding-top:2%; width:30%" src="habibi-1.png" alt="Habibi Code logo with a heart instead of the 'o' in 'code'">
+
 	{#each page_sections as item}
 		{#if item.title === 'Current Mentors' || item.title === 'Past Mentors'}
 			<CollapsibleCard open={false}>

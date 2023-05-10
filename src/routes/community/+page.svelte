@@ -1,7 +1,8 @@
 
     <div class="details community container">
-
-<b>Habibi Code</b> is a community of passionate and empathetic technologists intended to empower, support, and encourage fellow minorities in tech to further their academic or career goals. Join our community and get to know and learn from each other; practice interview questions; ask questions; share advice, job postings, articles and more. 
+        <img style="padding-top:2%; width:30%" src="habibi-1.png" alt="Habibi Code logo with a heart instead of the 'o' in 'code'">
+<br>
+Habibi Code is a community of passionate and empathetic technologists intended to empower, support, and encourage fellow minorities in tech to further their academic or career goals. Join our community and get to know and learn from each other; practice interview questions; ask questions; share advice, job postings, articles and more. 
 
 <h3>Events</h3>
 Habibi Code puts on events every month on a variety of topics (starting November 2022). Some examples of events include:
@@ -34,9 +35,12 @@ In order to maintain the purposeful environment we are fostering, we ask that an
         text-align: left;
         padding-left: 20%;
     }
+
+
     .community {
-        padding-top:75px;
-        width: 95%;
-        height: 100%;
-    }
+		padding-top: 35px;
+		padding-inline: .5em;
+		width: 95%;
+		height: 100%;
+	}
 </style>
