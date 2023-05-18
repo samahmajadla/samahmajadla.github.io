@@ -10,7 +10,7 @@
 		individuals, formerly incarcerated, low socio-economic background, non-traditional educational background,
 		etc). As a participant in this program, you will get one on one time with mentors that can be used
 		in whatever ways best suit your needs. You can read more about the program, as well as our mentors,
-		below!</p><p style="color:darkgreen"><b><i>Applications for the Summer 2023: July - September cycle is open. <a href="https://forms.gle/XxaH5sftcU93RQ5H9">Apply here.</a> </i></b></p>`},
+		below!</p><p style="color:darkgreen"><b><i>Applications for the Summer 2023: July - September cycle are closed. </i></b></p>`},
 		{
 			title: "Important Dates",
 			content: `<ul style="text-align:left;; text-align: left"><li style="margin-bottom:5px;"><b>May 17, 2023: Application form closes.</b></li><li style="margin-bottom:5px;">May 28, 2023: Applicants notified of interview decision.</li><li style="margin-bottom:5px;">Jun 11, 2023: Interviews end.</li><li style="margin-bottom:5px;">Jun 16, 2023: Applicants notified of final decision.</li><li style="margin-bottom:5px;">Jul 01, 2023:    Mentorship cycle begins! </li><li style="margin-bottom:5px;">Sep 31, 2023: Mentorship cycle ends.</li></ul>`
@@ -34,7 +34,7 @@
 		{
 			title: "Interested? Application and Next Steps",
 		
-			content: `Applications are now open through May 17, 2023. <a href="https://forms.gle/XxaH5sftcU93RQ5H9">Apply here.</a>`
+			content: `Applications are closed for the Summer cycle.`
 		},
 		{
 			title: "Past Mentors"
