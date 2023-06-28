@@ -44,6 +44,92 @@
 
 	const currentMentors = [
 		{
+		name: "Amber Salome <br/> Spring 2023",
+		current: false,
+		img: "amber.jpeg",
+		alt: "Amber smiling for camera",
+		bio: "My name is Amber Salome and I am based out of Chicago, Illinois. I studied Computer Science and Biology at Kalamazoo College, and focused on the intersection of these two fields. After college I spent a year as a software engineer, then transitioned to being a Solutions Architect. I now focus on observability/monitoring, devops, and computer infrastructure. My favorite things to work on are kubernetes/helm and building intuitive dashboards. In my free time I love riding my bike and cooking new recipes!"
+	},
+
+	
+		{
+		name: "DeShayla Cisero <br/> Winter 2022",
+		current: false,
+		img: "DeShayla.JPG",
+		alt: "DeShayla smiling at the camera",
+		bio: `I have a Bachelor of Arts in Communication and Marketing, certified Software
+			Developer (Java), and Certified Scrum Product Owner. I am a professional Coach and Owner of Joy
+			Code and an Agile Product Manager. Currently interested in growing my knowledge and skills in Artificial
+			Intelligence and learning new ways tech can improve our quality of life. Passionate about leaving
+			people greater than I found them!`
+		},
+		{
+		name: "Grace Wingo <br/> Spring 2023",
+		current: false,
+		img: "grace.jpeg",
+		alt: "Grace smiling brightly into the camera",
+		bio: "grace wingo currently works as a software engineer at Vox Media where they work primarily on ad tech. they have a masters in educational psychology and a b.a in theatre. in their free time they enjoy playing guitar, running, reading, hiking, and exploring new places and meeting new people. they're passionate about inclusion, slow living, and rest."
+	},
+		
+		{
+		name: "Supraja Kalva <br/> Winter 2022",
+		current: false,
+		img: "supraja.JPG",
+		alt: "Supraja smiling at the camera",
+		bio: `Supraja (she/her/hers) graduated from Eastern Michigan University as a Presidential
+		Scholar with a Bachelor of Science in Computer Science (Applied) and Neuroscience Interdisciplinary,
+		along with University Honors, Departmental Honors in both majors, and Highest Honors. She is currently
+		working at General Motors as a Speech Certification Test Engineer. She is very interested in the
+		neurotechnology and neuroengineering space, hoping to get a PhD in the related fields in the future.
+		She loves hiking, learning about new cultures and languages, and a fellow art enthusiast.`
+	},{
+			name: "Vaughn Walker <br/> Winter 2022, Spring 2023",
+			current: false,
+			img: "vaughn.jpeg",
+			alt: "Vaughn smiling for the camera",
+			bio: `Career background: I have 4 years of engineering experience with the
+			last 3.5 years at the company Integral. My current role is senior software engineer. I've
+			spent the majority of my time doing projects related to the automotive space. Outside of that,
+			I have a side business of selling printed product labels which is adjacent to my old line of
+			work in the printing industry where I spent 14 years operating a printing press before making
+			the career switch to IT.<br /><br />When I'm not working I enjoy spending time with my family, riding my one wheel, traveling, and
+			building my new vinyl record collection.`
+		},
+	{
+		name: `Vera Reynolds <br/> Winter 2022`,
+		current: false,
+		img: "vera.png",
+		alt: "Vera is drawn as a caricature bee, holding her two cats",
+		bio: `Hi! I'm Vera. I have a BA in Psychology and a BS in Computer Science. I've
+				been a software engineer since 2012. Over the years I worked at a number of companies, from small
+				consulting firms to large organizations. I currently work at a startup called Honeycomb that provides
+				a monitoring platform for other software engineers. I'm very much a generalist when it comes to
+				languages and frameworks, but my competency is mostly around web technologies. I'm interested in
+				digital rights and privacy, open-source, and developer tooling. Oh, and cats :)`
+	},
+	
+	{
+		name: "Wael Rabadi <br/> Spring 2023",
+		current: false,
+		img: "wael.png",
+		alt: "Wael looking at a computer screen off camera",
+		bio: "My name is Wael Rabadi and I've been in the software development professional track since for over 20 years. My current position is a Senior Technical Solution Architect at VMware. I focus on building business application that run on modern cloud native architecture. I focus on highly available and scalable solutions. I enjoy working on all aspects of the application and enjoy thinking about the process and logic. In my spare time, I enjoy looking into IoT and microprocessor programming."
+	},
+	{
+		name: "Alex Ewings",
+		current: true,
+		img: "alex.png",
+		alt: "Alex is sitting on a railing at the beach, with sunglasses on.",
+		bio: "My name is Alex Ewings, throughout college I changed my major about 5 times before deciding on pursuing a career in IT. I now have over 9 years of experience across several different information technology roles (primarily on the platform side of IT). I'm currently a Solutions Architect, with a focus on Kubernetes, observability/monitoring, CI/CD, and computer infrastructure. My favorite things to work on are Kubernetes and building intuitive dashboards through Grafana/Prometheus. Outside of work I enjoy tinkering on my car, flying general aviation aircraft recreationally, traveling (going to different beaches), exercising and helping struggling nonprofit companies with different IT related issues theyre dealing with."
+	},
+	{
+		name: "Carrie Wallace",
+		current: true,
+		img: "carrie.jpeg",
+		alt: "Carrie smiling brightly at the camera",
+		bio: "Carrie Wallace, graduated from Michigan with a degree in Classical Archaeology, took a 6 mo coding course and now work in Salesforce. Currently working on a Lightning Migration/CRM upgrade for NextGear Capital, a division of Cox Auto. I really love the flexibility Salesforce offers to all levels of tech understanding. I’m passionate about leading with compassion and understanding rather than micromanaging and fear mongering.  Can’t wait to help someone transform their career the way I was able to!"
+	},
+	{
 			name: "Cole Wyman",
 			current: true,
 			img: "coal.jpeg",
@@ -65,7 +151,22 @@
 			great access to all three, and I love getting the chance to bring my friends and family around
 			for Broadway shows and Korean BBQ.`
 		},
-		{
+		
+	{
+		name: "Diana Richardson",
+		current: true,
+		img: "diana.JPG",
+		alt: "Carrie smiling brightly at the camera",
+		bio: "Diana Richardson, University of Mississippi - Management Information Systems, Management, Computer Science. Senior level product/project manager with experience as BA, QA. Currently working as Principal Technical Product Manager - creating next gen applications and managing team success. Interested in employee volunteerism and charitable contributions, giving back. Wife, Mother to many tiny humans, I do CrossFit occasionally"
+	},
+	{
+		name: "Elise Griffiths",
+		current: true,
+		img: "elise.png",
+		alt: "Elise smiling for the camera",
+		bio: "Hi, I'm Elise! I was one of those kids who went through a bunch of different majors in college, settled on Mechanical Engineering, and then wound up back in software somehow! I was recently promoted to manage a software engineering team called FordLabs (check us out! www.fordlabs.com). These days I'm still working on learning about the usual things that come with management, leadership strategies, a bit of bureaucracy, and figuring out how to best help my team. When I get to jump in the code, I love experimenting with little ideas that can help make the big idea go. Sometimes I just experiment with huge ideas for the fun of it. On my off time I love getting out and doing things. I have niche hobbies like ballroom dance and speedskating, but also enjoy more typical things like art, running, and watching sports (go blue!)."
+	},
+	{
 			name: "Ellis Parker",
 			current: true,
 			img: "ellis.jpg",
@@ -77,7 +178,15 @@
 			machine learning, SQL, DEI, community volunteering Likes: Music, food, drag, matcha lattes Dislikes:
 			Dunkin Doughnuts, transphobia, bad drivers`
 		},
-		{
+		
+	{
+		name: "Jaimie Black",
+		current: true,
+		img: "jaimie.jpg",
+		alt: "Jaimie posing with her hand on her face",
+		bio: "My name is Jaimie (they/them!) and I am a self-taught backend developer with about 2 years of work experience. Currently, I build Python microservices. I do a lot of API design and documentation work as well-- good documentation is a HUGE passion of mine! On the side, I do the occasional fullstack project, so I know my way around CSS and Javascript."
+	},
+	{
 			name: "Samah Majadla",
 			current: true,
 			img: "samah_headshot_small.jpeg",
@@ -93,88 +202,8 @@
 			going to the ocean, hiking, exploring cities, dancing, kickboxing), and spending time with those
 			I love.`
 		},
-		{
-			name: "Vaughn Walker",
-			current: true,
-			img: "vaughn.jpeg",
-			alt: "Vaughn smiling for the camera",
-			bio: `Career background: I have 4 years of engineering experience with the
-			last 3.5 years at the company Integral. My current role is senior software engineer. I've
-			spent the majority of my time doing projects related to the automotive space. Outside of that,
-			I have a side business of selling printed product labels which is adjacent to my old line of
-			work in the printing industry where I spent 14 years operating a printing press before making
-			the career switch to IT.<br /><br />When I'm not working I enjoy spending time with my family, riding my one wheel, traveling, and
-			building my new vinyl record collection.`
-		},{
-		name: "DeShayla Cisero <br/> Winter 2022",
-		current: false,
-		img: "DeShayla.JPG",
-		alt: "DeShayla smiling at the camera",
-		bio: `I have a Bachelor of Arts in Communication and Marketing, certified Software
-			Developer (Java), and Certified Scrum Product Owner. I am a professional Coach and Owner of Joy
-			Code and an Agile Product Manager. Currently interested in growing my knowledge and skills in Artificial
-			Intelligence and learning new ways tech can improve our quality of life. Passionate about leaving
-			people greater than I found them!`
-		},
-		{
-		name: "Supraja Kalva <br/> Winter 2022",
-		current: false,
-		img: "supraja.JPG",
-		alt: "Supraja smiling at the camera",
-		bio: `Supraja (she/her/hers) graduated from Eastern Michigan University as a Presidential
-		Scholar with a Bachelor of Science in Computer Science (Applied) and Neuroscience Interdisciplinary,
-		along with University Honors, Departmental Honors in both majors, and Highest Honors. She is currently
-		working at General Motors as a Speech Certification Test Engineer. She is very interested in the
-		neurotechnology and neuroengineering space, hoping to get a PhD in the related fields in the future.
-		She loves hiking, learning about new cultures and languages, and a fellow art enthusiast.`
-	},
-	{
-		name: `Vera Reynolds <br/> Winter 2022`,
-		current: false,
-		img: "vera.png",
-		alt: "Vera is drawn as a caricature bee, holding her two cats",
-		bio: `Hi! I'm Vera. I have a BA in Psychology and a BS in Computer Science. I've
-				been a software engineer since 2012. Over the years I worked at a number of companies, from small
-				consulting firms to large organizations. I currently work at a startup called Honeycomb that provides
-				a monitoring platform for other software engineers. I'm very much a generalist when it comes to
-				languages and frameworks, but my competency is mostly around web technologies. I'm interested in
-				digital rights and privacy, open-source, and developer tooling. Oh, and cats :)`
-	},
-	{
-		name: "Amber Salome",
-		current: true,
-		img: "amber.jpeg",
-		alt: "Amber smiling for camera",
-		bio: "My name is Amber Salome and I am based out of Chicago, Illinois. I studied Computer Science and Biology at Kalamazoo College, and focused on the intersection of these two fields. After college I spent a year as a software engineer, then transitioned to being a Solutions Architect. I now focus on observability/monitoring, devops, and computer infrastructure. My favorite things to work on are kubernetes/helm and building intuitive dashboards. In my free time I love riding my bike and cooking new recipes!"
-	},
-	{
-		name: "Elise Griffiths",
-		current: true,
-		img: "elise.png",
-		alt: "Elise smiling for the camera",
-		bio: "Hi, I'm Elise! I was one of those kids who went through a bunch of different majors in college, settled on Mechanical Engineering, and then wound up back in software somehow! I was recently promoted to manage a software engineering team called FordLabs (check us out! www.fordlabs.com). These days I'm still working on learning about the usual things that come with management, leadership strategies, a bit of bureaucracy, and figuring out how to best help my team. When I get to jump in the code, I love experimenting with little ideas that can help make the big idea go. Sometimes I just experiment with huge ideas for the fun of it. On my off time I love getting out and doing things. I have niche hobbies like ballroom dance and speedskating, but also enjoy more typical things like art, running, and watching sports (go blue!)."
-	},
-	{
-		name: "Jaimie Black",
-		current: true,
-		img: "jaimie.jpg",
-		alt: "Jaimie posing with her hand on her face",
-		bio: "My name is Jaimie (they/them!) and I am a self-taught backend developer with about 2 years of work experience. Currently, I build Python microservices. I do a lot of API design and documentation work as well-- good documentation is a HUGE passion of mine! On the side, I do the occasional fullstack project, so I know my way around CSS and Javascript."
-	},
-	{
-		name: "Grace Wingo",
-		current: true,
-		img: "grace.jpeg",
-		alt: "Grace smiling brightly into the camera",
-		bio: "grace wingo currently works as a software engineer at Vox Media where they work primarily on ad tech. they have a masters in educational psychology and a b.a in theatre. in their free time they enjoy playing guitar, running, reading, hiking, and exploring new places and meeting new people. they're passionate about inclusion, slow living, and rest."
-	},
-	{
-		name: "Wael Rabadi",
-		current: true,
-		img: "wael.png",
-		alt: "Wael looking at a computer screen off camera",
-		bio: "My name is Wael Rabadi and I've been in the software development professional track since for over 20 years. My current position is a Senior Technical Solution Architect at VMware. I focus on building business application that run on modern cloud native architecture. I focus on highly available and scalable solutions. I enjoy working on all aspects of the application and enjoy thinking about the process and logic. In my spare time, I enjoy looking into IoT and microprocessor programming."
-	},
+	
+
 ]
 </script>
 <div id="mentorship" class="details container">
