@@ -44,6 +44,13 @@
 
 	const currentMentors = [
 		{
+			name: "Alex Reynolds",
+			current: true,
+			img: "alex_reynolds.jpg",
+			alt: "Alex and his cat lounging",
+			bio: "Bio coming soon!"
+		},
+		{
 		name: "Amber Salome <br/> Spring 2023",
 		current: false,
 		img: "amber.jpeg",
