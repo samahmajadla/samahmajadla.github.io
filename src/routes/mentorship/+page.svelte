@@ -43,13 +43,7 @@
 	]
 
 	const currentMentors = [
-		{
-			name: "Alex Reynolds",
-			current: true,
-			img: "alex_reynolds.jpg",
-			alt: "Alex and his cat lounging",
-			bio: "Bio coming soon!"
-		},
+		
 		{
 		name: "Amber Salome <br/> Spring 2023",
 		current: false,
@@ -129,6 +123,13 @@
 		alt: "Alex is sitting on a railing at the beach, with sunglasses on.",
 		bio: "My name is Alex Ewings, throughout college I changed my major about 5 times before deciding on pursuing a career in IT. I now have over 9 years of experience across several different information technology roles (primarily on the platform side of IT). I'm currently a Solutions Architect, with a focus on Kubernetes, observability/monitoring, CI/CD, and computer infrastructure. My favorite things to work on are Kubernetes and building intuitive dashboards through Grafana/Prometheus. Outside of work I enjoy tinkering on my car, flying general aviation aircraft recreationally, traveling (going to different beaches), exercising and helping struggling nonprofit companies with different IT related issues theyre dealing with."
 	},
+	{
+			name: "Alex Reynolds",
+			current: true,
+			img: "alex_reynolds.jpg",
+			alt: "Alex and his cat lounging",
+			bio: "Bio coming soon!"
+		},
 	{
 		name: "Carrie Wallace",
 		current: true,
