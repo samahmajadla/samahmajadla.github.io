@@ -9,11 +9,10 @@
 		cycles for individuals who identify as a minority in the tech industry (women, BIPOC, Latinx, LGBTQ+
 		individuals, formerly incarcerated, low socio-economic background, non-traditional educational background,
 		etc). As a participant in this program, you will get one on one time with mentors that can be used
-		in whatever ways best suit your needs. You can read more about the program, as well as our mentors,
-		below!</p><p style="color:darkgreen"><b><i>Applications for the Summer 2023: July - September cycle are closed. </i></b></p>`},
+		in whatever ways best suit your needs. You can read more about the program below! Please note that the mentors for the upcoming Spring 2024 cycle have not been finalized.</p><p style="color:darkgreen"><b><i>Applications for the Spring 2024: March - May cycle will open on December 7th, 2023. </i></b></p>`},
 		{
 			title: "Important Dates",
-			content: `<ul style="text-align:left;; text-align: left"><li style="margin-bottom:5px;"><b>May 17, 2023: Application form closes.</b></li><li style="margin-bottom:5px;">May 28, 2023: Applicants notified of interview decision.</li><li style="margin-bottom:5px;">Jun 11, 2023: Interviews end.</li><li style="margin-bottom:5px;">Jun 16, 2023: Applicants notified of final decision.</li><li style="margin-bottom:5px;">Jul 01, 2023:    Mentorship cycle begins! </li><li style="margin-bottom:5px;">Sep 31, 2023: Mentorship cycle ends.</li></ul>`
+			content: `<ul style="text-align:left;; text-align: left"><li style="margin-bottom:5px;">Dec 07, 2023: Spring 2024 Mentorship Program Application form opens.</li><li style="margin-bottom:5px;"><b>Jan 07, 2024: Application closes.</b></li><li style="margin-bottom:5px;">Jan 15, 2024: Start of interview period.</li><li style="margin-bottom:5px;">Jan 31, 2024: End of interview period.</li><li style="margin-bottom:5px;">Feb 15, 2024: Mentorship pairings announced.</li><li style="margin-bottom:5px;">Mar 01, 2024:    Mentorship cycle begins! </li><li style="margin-bottom:5px;">May 31, 2024: Mentorship cycle ends.</li></ul>`
 		},
 		{
 			title: "Program",
@@ -25,16 +24,16 @@
 		},
 		{
 			title: "Qualifications",
-			content: `In order to qualify for this opportunity, you should:	<ul style="text-align: left;padding-inline:20%;">		<li>Identify as a minority in the tech industry.</li>		<li>			Be able to commit to meeting for 30 minutes every two weeks, and 45 minutes every month.		</li>	</ul>`
+			content: `In order to qualify for this opportunity, you should:	<ul style="text-align: left;padding-inline:20%;">		<li>Identify as a minority in the tech industry.</li>		<li>			Be able to commit to meeting with your mentor every two weeks for 30 minutes.		</li>	</ul>`
 		},
 		{
 			title: "Expectations and Further Details",
-			content: `<p>		If you are chosen to be a part of this program, you are expected to commit to the following:	</p>	<ul style="text-align: left;padding-inline:20%;">		<li>1:1 meeting every 2 weeks (half hour)</li>		<li>You are encouraged to join the two Panel and Q&A style group meetings (45 minutes, dates TBD)</li>	</ul>	<p>		You will also be invited to join all of our <a href="../community">Habibi Code</a> events. Other		information:	</p>	<ul style="text-align: left;padding-inline:20%;">		<li>You will coordinate with your mentor on your meeting times.</li>		<li>			You will have access to private channels to communicate with your mentor and the mentorship community.		</li>	</ul>`
+			content: `<p>		If you are chosen to be a part of this program, you are expected to commit to the following:	</p>	<ul style="text-align: left;padding-inline:20%;">		<li>1:1 meeting every 2 weeks (half hour)</li></ul>	<p>	 Other		information:	</p>	<ul style="text-align: left;padding-inline:20%;"><li>You are encouraged to join our <a href="../community">Habibi Code</a> events, including at least one Mentor Q&A Panel (45 minutes, dates TBD)</li>			<li>You will coordinate with your mentor on your meeting times.</li>		<li>			You will have access to private channels to communicate with your mentor and the mentorship community.		</li>	</ul>`
 		},
 		{
 			title: "Interested? Application and Next Steps",
 		
-			content: `Applications are closed for the Summer cycle.`
+			content: `Applications are currently closed. Applications for the Spring 2024 cycle will open on December 7th, 2023.`
 		},
 		{
 			title: "Past Mentors"
