@@ -16,7 +16,7 @@
 		},
 		{
 			title: "Program",
-			content: `<i>You can use this program for whatever best suits your needs, including but not limited to:</i>	<ul style="padding-inline:20%; text-align: left">		<li>Advice and guidance on education</li>		<li>Advice and guidance on career</li>		<li>Resume review</li>		<li>Brainstorming support (technical or product)</li>		<li>Interview prep</li>		<li>Support in learning a new tool or technology</li>		<li>Reviewing and further exloring computer science and/or software engineering concepts</li>		<li>			Troubleshooting, debugging, or code review (note: mentors will help point you in the right			direction as opposed to providing a solution)		</li>	</ul>	You may request to focus on other topics or ideas during the 1:1 time, however mentors reserve the	right to decline to focus on any topic for any reason.`
+			content: `<i>You can use this program for whatever best suits your needs, including but not limited to:</i>	<ul style="padding-inline:20%; text-align: left">		<li>Guidance or discussion on education or career</li><li>Resume review</li>		<li>Practice giving or receiving feedback</li>		<li>Interview prep</li>		<li>Support in learning a new tool or technology</li>		<li>Goals discussions</li>	<li>Reflection or review (of specific scenarios, behavior, writing, presentations, ideas, projects, etc)</li>	</ul>	You may request to focus on other topics or ideas during the 1:1 time, however mentors reserve the	right to decline to focus on any topic for any reason. All participants in the program will be invited to a Kickoff event and will receive a mentorship guidebook.`
 		},
 		{
 			title: "Current Mentors",
