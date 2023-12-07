@@ -12,7 +12,7 @@
 		in whatever ways best suit your needs. You can read more about the program below! Please note that the mentors for the upcoming Spring 2024 cycle have not been finalized.</p><p style="color:darkgreen"><b><i>Applications for the Spring 2024: March - May cycle will open on December 7th, 2023. </i></b></p>`},
 		{
 			title: "Important Dates",
-			content: `<ul style="text-align:left;; text-align: left"><li style="margin-bottom:5px;">Dec 07, 2023: Spring 2024 Mentorship Program Application form opens.</li><li style="margin-bottom:5px;"><b>Jan 07, 2024: Application closes.</b></li><li style="margin-bottom:5px;">Jan 15, 2024: Start of interview period.</li><li style="margin-bottom:5px;">Jan 31, 2024: End of interview period.</li><li style="margin-bottom:5px;">Feb 15, 2024: Mentorship pairings announced.</li><li style="margin-bottom:5px;">Mar 01, 2024:    Mentorship cycle begins! </li><li style="margin-bottom:5px;">May 31, 2024: Mentorship cycle ends.</li></ul>`
+			content: `<ul style="text-align:left;; text-align: left"><li style="margin-bottom:5px;">Dec 07, 2023: Spring 2024 Mentorship Program Application form opens.</li><li style="margin-bottom:5px;"><b>Jan 07, 2024: Application closes.</b></li><li style="margin-bottom:5px;">Feb 15, 2024: Mentorship pairings announced.</li><li style="margin-bottom:5px;">Mar 01, 2024:    Mentorship cycle begins! </li><li style="margin-bottom:5px;">May 31, 2024: Mentorship cycle ends.</li></ul>`
 		},
 		{
 			title: "Program",
