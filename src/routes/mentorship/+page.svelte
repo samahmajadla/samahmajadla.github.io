@@ -9,7 +9,7 @@
 		cycles for individuals who identify as a minority in the tech industry (women, BIPOC, Latinx, LGBTQ+
 		individuals, formerly incarcerated, low socio-economic background, non-traditional educational background,
 		etc). As a participant in this program, you will get one on one time with mentors that can be used
-		in whatever ways best suit your needs. You can read more about the program below! Please note that the mentors for the upcoming Spring 2024 cycle have not been finalized.</p><p style="color:darkgreen"><b><i>Applications for the Spring 2024: March - May cycle will open on December 7th, 2023. </i></b></p>`},
+		in whatever ways best suit your needs. You can read more about the program below! Please note that the mentors for the upcoming Spring 2024 cycle have not been finalized.</p><p style="color:darkgreen"><b><i>Applications for the Spring 2024: March - May cycle are now open. <a href="https://forms.gle/n6ph7YcEqYPpA7Xp8">Apply here</a>. The application form will close on January 7th, 2024.</i></b></p>`},
 		{
 			title: "Important Dates",
 			content: `<ul style="text-align:left;; text-align: left"><li style="margin-bottom:5px;">Dec 07, 2023: Spring 2024 Mentorship Program Application form opens.</li><li style="margin-bottom:5px;"><b>Jan 07, 2024: Application closes.</b></li><li style="margin-bottom:5px;">Feb 15, 2024: Mentorship pairings announced.</li><li style="margin-bottom:5px;">Mar 01, 2024:    Mentorship cycle begins! </li><li style="margin-bottom:5px;">May 31, 2024: Mentorship cycle ends.</li></ul>`
@@ -33,7 +33,7 @@
 		{
 			title: "Interested? Application and Next Steps",
 		
-			content: `Applications are currently closed. Applications for the Spring 2024 cycle will open on December 7th, 2023.`
+			content: `<a href="https://forms.gle/n6ph7YcEqYPpA7Xp8">Apply here.</a> The application form will close on January 7th, 2024. <br><br>There will be no interviews as a part of the application process for the upcoming cycle. Applicants will receive updates and further communications from Samah starting on January 8th, 2024 and will be informed of their application result by February 15th, 2024.`
 		},
 		{
 			title: "Past Mentors"
