@@ -179,7 +179,7 @@
 			current: true,
 			img: "alex_reynolds.jpg",
 			alt: "Alex is lounging behind his cat, wearing a white shirt. Both Alex and cat are looking at the camera, Alex with a big smile.",
-			bio: "Bio coming soon!"
+			bio: "I’ve always been an auto-didact, which has worked out well now that I have ~10 years experience in web / application development. I generally prefer the backend side of the stack, and also have lots of interest in security and privacy topics. Hobbies include disc golf, D&D, and travel. A perfect day is often something as simple as a hammock in a shady spot next to the lake, with my latest novel in hand."
 		},
 		
 	
