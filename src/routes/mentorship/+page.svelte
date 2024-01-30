@@ -207,9 +207,9 @@
 		{
 			name: "Mari",
 			current: true,
-			img: "comingSoon.png",
+			img: "mari.jpg",
 			alt: "",
-			bio: "Bio coming soon!"
+			bio: `Hello! My name is Mari and I work in game development. My current role is a Product Manager for mobile games, with a specialization in live operations. Never heard of it? You can learn more about it <a href="https://videohub.inspiring-girls.com/en/videos/mari-yalong">here!</a> <br> While seemingly an odd concoction of backgrounds, they all somehow led me here, to my dream job in an industry very near and dear to my life. Both during and after college, I worked various roles in hospitality and marketing, while pursuing my degree in economics. Weirdly enough, that’s exactly the skill set needed in live operations: analysis, a curiosity of human behavior, and event and monetization planning. <br> I work with an array of teams across development, design, art, QA, community, and more, while looking at data tools to determine the best plans of action moving forward. <br> <br> While I’m not sitting at my desk, I enjoy sitting at my other desk to play Minecraft or sitting at the living room playing couch co-op games like Army of Two. When I’m not sitting, I’m playing volleyball, lifting at the gym, bowling, or going on random walks that always end up in a foodie trip.`
 		},
 	
 	{
