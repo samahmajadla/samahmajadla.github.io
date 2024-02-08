@@ -169,7 +169,7 @@
 	},
 	{
 		name: "Alex Ewings",
-		current: true,
+		current: false,
 		img: "alex.png",
 		alt: "Alex is sitting on a railing at the beach, with sunglasses on.",
 		bio: "My name is Alex Ewings, throughout college I changed my major about 5 times before deciding on pursuing a career in IT. I now have over 9 years of experience across several different information technology roles (primarily on the platform side of IT). I'm currently a Solutions Architect, with a focus on Kubernetes, observability/monitoring, CI/CD, and computer infrastructure. My favorite things to work on are Kubernetes and building intuitive dashboards through Grafana/Prometheus. Outside of work I enjoy tinkering on my car, flying general aviation aircraft recreationally, traveling (going to different beaches), exercising and helping struggling nonprofit companies with different IT related issues theyre dealing with."
@@ -209,7 +209,7 @@
 			current: true,
 			img: "mari.jpg",
 			alt: "",
-			bio: `Hello! My name is Mari and I work in game development. My current role is a Product Manager for mobile games, with a specialization in live operations. Never heard of it? You can learn more about it <a href="https://videohub.inspiring-girls.com/en/videos/mari-yalong">here!</a> <br> While seemingly an odd concoction of backgrounds, they all somehow led me here, to my dream job in an industry very near and dear to my life. Both during and after college, I worked various roles in hospitality and marketing, while pursuing my degree in economics. Weirdly enough, that’s exactly the skill set needed in live operations: analysis, a curiosity of human behavior, and event and monetization planning. <br> I work with an array of teams across development, design, art, QA, community, and more, while looking at data tools to determine the best plans of action moving forward. <br> <br> While I’m not sitting at my desk, I enjoy sitting at my other desk to play Minecraft or sitting at the living room playing couch co-op games like Army of Two. When I’m not sitting, I’m playing volleyball, lifting at the gym, bowling, or going on random walks that always end up in a foodie trip.`
+			bio: `Hello! My name is Mari and I work in game development. My current role is a Product Manager for mobile games, with a specialization in live operations. Never heard of it? You can learn more about it <a href="https://videohub.inspiring-girls.com/en/videos/mari-yalong">here!</a> <br> While seemingly an odd concoction of backgrounds, they all somehow led me here, to my dream job in an industry very near and dear to my life. Both during and after college, I worked various roles in hospitality and marketing, while pursuing my degree in economics. Weirdly enough, that’s exactly the skill set needed in live operations: analysis, a curiosity of human behavior, and event and monetization planning. <br> I work with an array of teams across development, design, art, QA, community, and more, while looking at data tools to determine the best plans of action moving forward. <br> <br> While I’m not sitting at my desk, I enjoy sitting at my other desk to play Minecraft or sitting at the living room playing couch co-op games like Army of Two. <br> <br> When I’m not sitting, I’m playing volleyball, lifting at the gym, bowling, or going on random walks that always end up in a foodie trip.`
 		},
 	
 	{
