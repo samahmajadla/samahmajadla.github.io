@@ -229,13 +229,7 @@
 			I love.`
 		},
 
-		{
-			name: "Supriya",
-			current: true,
-			img: "comingSoon.png",
-			alt: "",
-			bio: "Bio coming soon!"
-		},
+		
 
 ]
 </script>
