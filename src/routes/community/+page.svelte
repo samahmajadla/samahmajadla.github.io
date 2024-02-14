@@ -23,10 +23,7 @@ Habibi Code puts on events every month on a variety of topics (starting November
 If you identify as a minority in tech, you are welcome to join Habibi Code. This includes, but is not limited to: women, BIPOC, the Latinx community, LGBTQ+ individuals, the formerly incarcerated community, those from low socio-economic backgrounds, those with non-traditional educational backgrounds. 
 
 <h3>Join</h3>
-In order to maintain the purposeful environment we are fostering, we ask that anyone interested in joining this community fill out a form confirming your identity as a minority in tech. If you meet the eligibility criteria, you will receive an invitation to join our Discord group within 2 business days. We are also collecting optional demographic information to better understand our community makeup.
-<br>
-<br>
-<a style="font-size:1.4em" href="https://forms.gle/W3PdQP9VLLYHBT6v9">Fill out the form to join here!</a>
+<a href="https://discord.gg/f9JwpyvhqP">Here is a link to join our Discord community!</a> Please note that you will not have full access to Habibi Code once you join - in order to maintain the purposeful environment we are fostering, we ask that anyone interested in joining Habibi Code fill out a form confirming their identity as a minority in tech. If you meet the eligibility criteria, you will receive access to our full Discord community.  We are also collecting optional demographic information to better understand our community makeup.
 </div>
 
 

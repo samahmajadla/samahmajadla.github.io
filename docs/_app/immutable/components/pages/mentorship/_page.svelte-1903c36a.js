@@ -51,4 +51,4 @@ import{S as G,i as J,s as O,B as Y,k as v,a as C,l as w,m as I,h as p,c as j,n a
 			<a href="/about">about my background here.</a><br>
 			In my free time, I like to make things (robotics, beaded jewelry, nails), being active (paddleboarding,
 			going to the ocean, hiking, exploring cities, dancing, kickboxing), and spending time with those
-			I love.`},{name:"Supriya",current:!0,img:"comingSoon.png",alt:"",bio:"Bio coming soon!"}],(o,r)=>o.title=="Current Mentors"?r.current:!r.current]}class Be extends G{constructor(e){super(),J(this,e,He,De,O,{})}}export{Be as default};
+			I love.`}],(o,r)=>o.title=="Current Mentors"?r.current:!r.current]}class Be extends G{constructor(e){super(),J(this,e,He,De,O,{})}}export{Be as default};
