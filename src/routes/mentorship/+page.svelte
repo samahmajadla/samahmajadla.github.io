@@ -217,16 +217,10 @@
 			current: true,
 			img: "samah_headshot_small.jpeg",
 			alt: "Samah smiling for the camera",
-			bio: `I have a Bachelor of Arts in Computer Science and Studio Art, and
-			Masters of Science in Computer Science. I am a Product Manager at VMware, where I help clients
-			with implementation and maturation of their cloud infrastructure. I am currently working on a
-			full-stack application for Prison Books Collective, a non-profit that sends free books to
-			individuals incarcerated in North Carolina and Alabama; the app is being developed using Java,
-			Spring Boot, Hibernate/JPA, MySQL, SvelteKit, HTML, Javascript, and CSS. <br><br>You can learn more
-			<a href="/about">about my background here.</a><br>
-			In my free time, I like to make things (robotics, beaded jewelry, nails), being active (paddleboarding,
-			going to the ocean, hiking, exploring cities, dancing, kickboxing), and spending time with those
-			I love.`
+			bio: `You can learn more
+			<a href="/about">about me and my background here.</a><br>
+			In my free time, I like art/to make things (painting, drawing, robotics, beaded jewelry, nails), being active (paddleboarding,
+			going to the ocean, hiking, exploring cities, dancing, moving), and spending time with those I love.`
 		},
 
 		
