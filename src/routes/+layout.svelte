@@ -6,7 +6,7 @@
     <nav class="nav">
         <ul>
             <li class:active={$page.url.pathname === '/'}><a href="/">Home</a></li>
-            <li class:active={$page.url.pathname === '/about'}><a href="../about">About</a></li>
+            <li class:active={$page.url.pathname === '/about'}><a href="../about">About Samah</a></li>
             <li class:active={$page.url.pathname === '/mentorship'}><a href="../mentorship">Habibi Code - Mentorship</a></li>
             <li class:active={$page.url.pathname === '/community'}><a href="../community">Habibi Code - Join Our Community</a></li>
         </ul>
