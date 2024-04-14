@@ -12,6 +12,7 @@ Habibi Code puts on events on a variety of topics. Some examples of events inclu
     <li>Resume Review Workshop</li>
     <li>Building a Full-Stack Application - Backend and Frontend</li>
     <li>Q&A Panels with Professionals in Tech</li>
+    <li>From Idea to Product: How to Get Started With Building a Project</li>
 </ul>
 
 <h3>Eligibility</h3>
