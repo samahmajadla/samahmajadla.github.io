@@ -26,7 +26,7 @@ If you identify as a minority in tech, you are welcome to join Habibi Code. This
 <style>
     ul {
         text-align: left;
-        padding-left: 20%;
+        padding-left: 10%;
     }
 
 
