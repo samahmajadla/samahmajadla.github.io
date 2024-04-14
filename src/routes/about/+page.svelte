@@ -23,7 +23,7 @@
         <li><b>2018</b>: Received my M.S.!</li>
         <li><b>2018 - 2019</b>: Co-founded, ran, and taught for Integrate Detroit - a free software engineering fellowship aimed to reduce the race and gender gaps in Detroit area tech.</li>
         <li><b>2019 - 2024</b>: Worked as a Senior Solutions Architect for VMware (Pivotal prior to its acquisition), where I embodied many roles: Product Manager, Consultant, Software Developer, Teacher, DEI Leader. Beyond the impactful work I did with some of US and North America's largest institutions, I am especially proud of the intership program that I created and ran, as well as the DEI initiative I led - both for my global team of 150+ solutions architects.</li>
-        <li><b>2019 - present</b>: Current board member and volunteer for Prison Books Collective. In the fall of 2020 I began developing and continuously iterating on BellBooks, a full-stack cloud-native application that modernized PBC's record-keeping system</li>
+        <li><b>2019 - present</b>: Current board member and volunteer for <a href="https://prisonbooks.info">Prison Books Collective</a>, a Durham-based non-profit organization that sends free books and resources to incarcerated people primarily in NC & AL. In the fall of 2020 I began developing and continuously iterating on BellBooks, a full-stack cloud-native application that modernized PBC's record-keeping system</li>
         <li><b>2022 - present</b>: Started Habibi Code and launched the Habibi Code Mentorship program!</li>
         <li><b>present - onwards</b>: I'm looking for my next work community and role! Please reach out via <a href="https://www.linkedin.com/in/samahm">LinkedIn</a> if you'd like to discuss any opportunities.</li>
         </i>
