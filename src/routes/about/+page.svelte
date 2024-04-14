@@ -37,6 +37,7 @@
         
     <li>Learn more about my professional history through my <a href="https://www.linkedin.com/in/samahm">LinkedIn</a>.</li>
     <li>Read what my students have said about me and my teaching through my <a href="https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2343257">RateMyProfessor page</a> and <a href="https://web.archive.org/web/20190909145119/https://www.siliconrustbelt.com/students-of-integrate-detroit-present-current-projects-at-demo-day/">this article on Integrate Detroit</a>, a software engineering fellowship I co-founded. </li>
+    <li>Follow my art, beading, and other creative endeavors on <a href="https://www.instagram.com/_studio_samah_">Instagram</a>.</li>
     </ul>
 </div>
 
