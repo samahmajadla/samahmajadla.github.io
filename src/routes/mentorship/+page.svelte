@@ -9,19 +9,19 @@
 		cycles for individuals who identify as a minority in the tech industry (women, BIPOC, Latinx, LGBTQ+
 		individuals, formerly incarcerated, low socio-economic background, non-traditional educational background,
 		etc). As a participant in this program, you will get one on one time with mentors that can be used
-		in whatever ways best suit your needs. You can read more about the program below! Please note that the mentors for the upcoming Spring 2024 cycle have not been finalized.</p><p style="color:darkgreen"><b><i>The mentorship program is currently on pause.</i></b></p>`},
-		{
-			title: "Important Dates",
-			content: `<ul style="text-align:left;; text-align: left"><li style="margin-bottom:5px;">Dec 07, 2023: Spring 2024 Mentorship Program Application form opens.</li><li style="margin-bottom:5px;"><b>Jan 07, 2024: Application closes.</b></li><li style="margin-bottom:5px;">Feb 15, 2024: Mentorship pairings announced.</li><li style="margin-bottom:5px;">Mar 01, 2024:    Mentorship cycle begins! </li><li style="margin-bottom:5px;">May 31, 2024: Mentorship cycle ends.</li></ul>`
-		},
+		in whatever ways best suit your needs. You can read more about the program below!</p><p style="color:darkgreen"><b><i>The mentorship program is currently on pause.</i></b></p>`},
+		// {
+		// 	title: "Important Dates",
+		// 	content: `<ul style="text-align:left;; text-align: left"><li style="margin-bottom:5px;">Dec 07, 2023: Spring 2024 Mentorship Program Application form opens.</li><li style="margin-bottom:5px;"><b>Jan 07, 2024: Application closes.</b></li><li style="margin-bottom:5px;">Feb 15, 2024: Mentorship pairings announced.</li><li style="margin-bottom:5px;">Mar 01, 2024:    Mentorship cycle begins! </li><li style="margin-bottom:5px;">May 31, 2024: Mentorship cycle ends.</li></ul>`
+		// },
 		{
 			title: "Program",
 			content: `<i>You can use this program for whatever best suits your needs, including but not limited to:</i>	<ul style="padding-inline:20%; text-align: left">		<li>Guidance or discussion on education or career</li><li>Resume review</li>		<li>Practice giving or receiving feedback</li>		<li>Interview prep</li>		<li>Support in learning a new tool or technology</li>		<li>Goals discussions</li>	<li>Reflection or review (of specific scenarios, behavior, writing, presentations, ideas, projects, etc)</li>	</ul>	You may request to focus on other topics or ideas during the 1:1 time, however mentors reserve the	right to decline to focus on any topic for any reason. All participants in the program will be invited to a Kickoff event and will receive a mentorship guidebook.`
 		},
-		{
-			title: "Current Mentors",
-			content: "hh"
-		},
+		// {
+		// 	title: "Current Mentors",
+		// 	content: "hh"
+		// },
 		{
 			title: "Qualifications",
 			content: `In order to qualify for this opportunity, you should:	<ul style="text-align: left;padding-inline:20%;">		<li>Identify as a minority in the tech industry.</li>		<li>			Be able to commit to meeting with your mentor every two weeks for 30 minutes.		</li>	</ul>`
@@ -30,11 +30,11 @@
 			title: "Expectations and Further Details",
 			content: `<p>		If you are chosen to be a part of this program, you are expected to commit to the following:	</p>	<ul style="text-align: left;padding-inline:20%;">		<li>1:1 meeting every 2 weeks (half hour)</li></ul>	<p>	 Other		information:	</p>	<ul style="text-align: left;padding-inline:20%;"><li>You are encouraged to join our <a href="../community">Habibi Code</a> events, including at least one Mentor Q&A Panel (45 minutes, dates TBD)</li>			<li>You will coordinate with your mentor on your meeting times.</li>		<li>			You will have access to private channels to communicate with your mentor and the mentorship community.		</li>	</ul>`
 		},
-		{
-			title: "Interested? Application and Next Steps",
+		// {
+		// 	title: "Interested? Application and Next Steps",
 		
-			content: `The application form for the Spring 2024 cycle is closed. Check back in for the Summer cycle in April/May.<br><br>There will be no interviews as a part of the application process for the upcoming cycle. Applicants will receive updates and further communications from Samah starting on January 8th, 2024 and will be informed of their application result by February 15th, 2024.`
-		},
+		// 	content: `The application form for the Spring 2024 cycle is closed. Check back in for the Summer cycle in April/May.<br><br>There will be no interviews as a part of the application process for the upcoming cycle. Applicants will receive updates and further communications from Samah starting on January 8th, 2024 and will be informed of their application result by February 15th, 2024.`
+		// },
 		{
 			title: "Past Mentors"
 		}
@@ -176,7 +176,7 @@
 	},
 	{
 			name: "Alex Reynolds",
-			current: true,
+			current: false,
 			img: "alex_reynolds.jpg",
 			alt: "Alex is lounging behind his cat, wearing a white shirt. Both Alex and cat are looking at the camera, Alex with a big smile.",
 			bio: "I’ve always been an auto-didact, which has worked out well now that I have ~10 years experience in web / application development. I generally prefer the backend side of the stack, and also have lots of interest in security and privacy topics. Hobbies include disc golf, D&D, and travel. A perfect day is often something as simple as a hammock in a shady spot next to the lake, with my latest novel in hand."
@@ -185,7 +185,7 @@
 	
 	{
 			name: "Ellis Parker",
-			current: true,
+			current: false,
 			img: "ellis.jpg",
 			alt: "Ellis smiling at the camera",
 			bio: `(they/them/theirs) - Education: M.S. from Wayne State in Computer Science/Artificial
@@ -198,7 +198,7 @@
 		
 		{
 			name: "Jenni",
-			current: true,
+			current: false,
 			img: "jenni.png",
 			alt: "Jenni, a person with peach/pink colored hair, black glasses, and a hat is smiling next to a yellow slug.",
 			bio: "Howdy, it's Jenni! I'm currently a cybersecurity analyst that specializes in response / defense (e.g. finding the attackers and helping my clients stop them, and prevent such things from happening in the future), with about 8 years in IT / security at this point. My favorite things to do work-wise are working on incidents and helping teach/mentor new analysts! I have a maths degree which I got as a personal joke (because I'm terrible at math) and am primarily self-taught when it comes to IT/security. In my free time, I still enjoy discussing security and also like poetry / spiders / biology (pic is me with a pacific banana slug). In a few years I'll probably work in some sort of leadership capacity and am preparing myself so that I can be a good human in that capacity."
@@ -206,7 +206,7 @@
 
 		{
 			name: "Mari",
-			current: true,
+			current: false,
 			img: "mari.jpg",
 			alt: "",
 			bio: `Hello! My name is Mari and I work in game development. My current role is a Product Manager for mobile games, with a specialization in live operations. Never heard of it? You can learn more about it <a href="https://videohub.inspiring-girls.com/en/videos/mari-yalong">here!</a> <br> While seemingly an odd concoction of backgrounds, they all somehow led me here, to my dream job in an industry very near and dear to my life. Both during and after college, I worked various roles in hospitality and marketing, while pursuing my degree in economics. Weirdly enough, that’s exactly the skill set needed in live operations: analysis, a curiosity of human behavior, and event and monetization planning. <br> I work with an array of teams across development, design, art, QA, community, and more, while looking at data tools to determine the best plans of action moving forward. <br> <br> While I’m not sitting at my desk, I enjoy sitting at my other desk to play Minecraft or sitting at the living room playing couch co-op games like Army of Two. <br> <br> When I’m not sitting, I’m playing volleyball, lifting at the gym, bowling, or going on random walks that always end up in a foodie trip.`
@@ -214,7 +214,7 @@
 	
 	{
 			name: "Samah Majadla",
-			current: true,
+			current: false,
 			img: "samah_headshot_small.jpeg",
 			alt: "Samah smiling for the camera",
 			bio: `You can learn more
