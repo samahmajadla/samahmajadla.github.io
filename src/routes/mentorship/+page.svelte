@@ -14,22 +14,22 @@
 		// 	title: "Important Dates",
 		// 	content: `<ul style="text-align:left;; text-align: left"><li style="margin-bottom:5px;">Dec 07, 2023: Spring 2024 Mentorship Program Application form opens.</li><li style="margin-bottom:5px;"><b>Jan 07, 2024: Application closes.</b></li><li style="margin-bottom:5px;">Feb 15, 2024: Mentorship pairings announced.</li><li style="margin-bottom:5px;">Mar 01, 2024:    Mentorship cycle begins! </li><li style="margin-bottom:5px;">May 31, 2024: Mentorship cycle ends.</li></ul>`
 		// },
-		{
-			title: "Program",
-			content: `<i>You can use this program for whatever best suits your needs, including but not limited to:</i>	<ul style="padding-inline:20%; text-align: left">		<li>Guidance or discussion on education or career</li><li>Resume review</li>		<li>Practice giving or receiving feedback</li>		<li>Interview prep</li>		<li>Support in learning a new tool or technology</li>		<li>Goals discussions</li>	<li>Reflection or review (of specific scenarios, behavior, writing, presentations, ideas, projects, etc)</li>	</ul>	You may request to focus on other topics or ideas during the 1:1 time, however mentors reserve the	right to decline to focus on any topic for any reason. All participants in the program will be invited to a Kickoff event and will receive a mentorship guidebook.`
-		},
+		// {
+		// 	title: "Program",
+		// 	content: `<i>You can use this program for whatever best suits your needs, including but not limited to:</i>	<ul style="padding-inline:20%; text-align: left">		<li>Guidance or discussion on education or career</li><li>Resume review</li>		<li>Practice giving or receiving feedback</li>		<li>Interview prep</li>		<li>Support in learning a new tool or technology</li>		<li>Goals discussions</li>	<li>Reflection or review (of specific scenarios, behavior, writing, presentations, ideas, projects, etc)</li>	</ul>	You may request to focus on other topics or ideas during the 1:1 time, however mentors reserve the	right to decline to focus on any topic for any reason. All participants in the program will be invited to a Kickoff event and will receive a mentorship guidebook.`
+		// },
 		// {
 		// 	title: "Current Mentors",
 		// 	content: "hh"
 		// },
-		{
-			title: "Qualifications",
-			content: `In order to qualify for this opportunity, you should:	<ul style="text-align: left;padding-inline:20%;">		<li>Identify as a minority in the tech industry.</li>		<li>			Be able to commit to meeting with your mentor every two weeks for 30 minutes.		</li>	</ul>`
-		},
-		{
-			title: "Expectations and Further Details",
-			content: `<p>		If you are chosen to be a part of this program, you are expected to commit to the following:	</p>	<ul style="text-align: left;padding-inline:20%;">		<li>1:1 meeting every 2 weeks (half hour)</li></ul>	<p>	 Other		information:	</p>	<ul style="text-align: left;padding-inline:20%;"><li>You are encouraged to join our <a href="../community">Habibi Code</a> events, including at least one Mentor Q&A Panel (45 minutes, dates TBD)</li>			<li>You will coordinate with your mentor on your meeting times.</li>		<li>			You will have access to private channels to communicate with your mentor and the mentorship community.		</li>	</ul>`
-		},
+		// {
+		// 	title: "Qualifications",
+		// 	content: `In order to qualify for this opportunity, you should:	<ul style="text-align: left;padding-inline:20%;">		<li>Identify as a minority in the tech industry.</li>		<li>			Be able to commit to meeting with your mentor every two weeks for 30 minutes.		</li>	</ul>`
+		// },
+		// {
+		// 	title: "Expectations and Further Details",
+		// 	content: `<p>		If you are chosen to be a part of this program, you are expected to commit to the following:	</p>	<ul style="text-align: left;padding-inline:20%;">		<li>1:1 meeting every 2 weeks (half hour)</li></ul>	<p>	 Other		information:	</p>	<ul style="text-align: left;padding-inline:20%;"><li>You are encouraged to join our <a href="../community">Habibi Code</a> events, including at least one Mentor Q&A Panel (45 minutes, dates TBD)</li>			<li>You will coordinate with your mentor on your meeting times.</li>		<li>			You will have access to private channels to communicate with your mentor and the mentorship community.		</li>	</ul>`
+		// },
 		// {
 		// 	title: "Interested? Application and Next Steps",
 		
